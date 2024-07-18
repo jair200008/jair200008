@@ -60,7 +60,7 @@
 ## 📈 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jair200008&layout=compact&theme=radical" alt="Lenguajes más utilizados por Jair Gaona"/>
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=jair200008&layout=compact&theme=radical" alt="Lenguajes más utilizados por Jair Gaona"/>
 </p>
 
 ## 🏆 Trofeos de GitHub
