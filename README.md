@@ -66,6 +66,7 @@
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jair200008)](https://github.com/jair200008/github-readme-stats)
   <img src="https://github-profile-trophy.vercel.app/?username=jair200008&theme=darkhub&column=7" alt="Trofeos de GitHub de Jair Gaona"/>
 </p>
 
