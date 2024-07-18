@@ -54,13 +54,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jair200008&theme=radical" alt="Racha de GitHub de Jair Gaona"/>
+  <img src="https://gh-stats.deoxy.dev/api?username=jair200008&show_icons=true&theme=radical" alt="Racha de GitHub de Jair Gaona"/>
 </p>
 
 ## 📈 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=jair200008&layout=compact&theme=radical" alt="Lenguajes más utilizados por Jair Gaona"/>
+  <img src="https://gh-stats.deoxy.dev/api/top-langs/?username=jair200008" alt="Lenguajes más utilizados por Jair Gaona"/>
 </p>
 
 ## 🏆 Trofeos de GitHub
