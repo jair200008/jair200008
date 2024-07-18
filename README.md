@@ -10,12 +10,11 @@
 
 ¡Hola! Soy un apasionado Desarrollador Fullstack con experiencia en la creación de aplicaciones web robustas y escalables. Mi expertise abarca tanto el frontend como el backend, utilizando tecnologías punteras y metodologías ágiles para ofrecer soluciones de calidad.
 
-- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto Actual]
-- 🌱 Estoy aprendiendo [Tecnología o Habilidad que estés aprendiendo]
-- 👯 Busco colaborar en proyectos de [Área de Interés]
+- 🔭 Actualmente estoy trabajando en NexusTech
+- 🌱 Estoy aprendiendo Astro
+- 👯 Busco colaborar en proyectos de OpenSources
 - 💬 Pregúntame sobre JavaScript, React, Node.js, o cualquier cosa relacionada con desarrollo web
 - 📫 Cómo contactarme: jairgaona60@gmail.com
-- ⚡ Dato curioso: [Un dato interesante sobre ti]
 
 ## 🛠️ Habilidades Técnicas
 
@@ -84,9 +83,9 @@
 
 ## 🎯 Objetivos para 2024
 - [ ] Contribuir a 5 proyectos de código abierto
-- [ ] Aprender [Nueva Tecnología]
-- [ ] Lanzar [Proyecto Personal]
-- [ ] Mejorar habilidades en [Área Específica]
+- [ ] Aprender **Astro**
+- [ ] Lanzar **Sistema POS**
+- [ ] Mejorar habilidades en **Diseño UX/UI**
 
 ---
 
