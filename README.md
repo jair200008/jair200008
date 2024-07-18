@@ -10,6 +10,13 @@
 
 ¡Hola! Soy un apasionado Desarrollador Fullstack con experiencia en la creación de aplicaciones web robustas y escalables. Mi expertise abarca tanto el frontend como el backend, utilizando tecnologías punteras y metodologías ágiles para ofrecer soluciones de calidad.
 
+- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto Actual]
+- 🌱 Estoy aprendiendo [Tecnología o Habilidad que estés aprendiendo]
+- 👯 Busco colaborar en proyectos de [Área de Interés]
+- 💬 Pregúntame sobre JavaScript, React, Node.js, o cualquier cosa relacionada con desarrollo web
+- 📫 Cómo contactarme: jairgaona60@gmail.com
+- ⚡ Dato curioso: [Un dato interesante sobre ti]
+
 ## 🛠️ Habilidades Técnicas
 
 ### Frontend
@@ -51,6 +58,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jair200008&theme=radical" alt="Racha de GitHub de Jair Gaona"/>
 </p>
 
+## 📈 Lenguajes más utilizados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jair200008&layout=compact&theme=radical" alt="Lenguajes más utilizados por Jair Gaona"/>
+</p>
+
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jair200008&theme=darkhub&column=7" alt="Trofeos de GitHub de Jair Gaona"/>
+</p>
+
 ## 🌐 Conéctate conmigo
 
 ¿Tienes un proyecto interesante o simplemente quieres charlar sobre tecnología? ¡No dudes en contactarme!
@@ -58,6 +77,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairgaona/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jairgaona_2000)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairgaona60@gmail.com)
+
+## 📚 Últimos Posts del Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Objetivos para 2024
+- [ ] Contribuir a 5 proyectos de código abierto
+- [ ] Aprender [Nueva Tecnología]
+- [ ] Lanzar [Proyecto Personal]
+- [ ] Mejorar habilidades en [Área Específica]
 
 ---
 
