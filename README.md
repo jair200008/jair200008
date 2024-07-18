@@ -50,7 +50,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jair200008&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Jair Gaona"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=jair200008" alt="Estadísticas de GitHub de Jair Gaona"/>
 </p>
 
 <p align="center">
@@ -66,8 +66,8 @@
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jair200008)](https://github.com/jair200008/github-readme-stats)
-  <img src="https://github-profile-trophy.vercel.app/?username=jair200008&theme=darkhub&column=7" alt="Trofeos de GitHub de Jair Gaona"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jair200008&theme=darkhub&column" alt="Trofeos de GitHub de Jair Gaona"/>
+ 
 </p>
 
 ## 🌐 Conéctate conmigo
