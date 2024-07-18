@@ -73,14 +73,14 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jair200008&show_icons=true&theme=radical)
 
 ## 🌟 Proyectos Destacados
 
 ### [Proyecto 1](URL_DE_TU_PROYECTO)
 Descripción breve del proyecto 1. Tecnología utilizada: React, Node.js, MongoDB.
 
-### [Proyecto 2](URL_DE_TU_PROYECTO)
+### [Sistema POS PHP](https://github.com/jair200008/elchispito.git)
 Descripción breve del proyecto 2. Tecnología utilizada: Angular, Java, MySQL.
 
 ### [Proyecto 3](URL_DE_TU_PROYECTO)
@@ -88,7 +88,7 @@ Descripción breve del proyecto 3. Tecnología utilizada: Vue.js, Python, Postgr
 
 ## 📫 Contáctame
 
-- **Email**: tu_email@example.com
+- **Email**: jairgaona60@gmail.com
 - **LinkedIn**: [tu_perfil_linkedin](URL_DE_TU_LINKEDIN)
 - **Twitter**: [@tu_usuario_twitter](URL_DE_TU_TWITTER)
 
